@@ -496,8 +496,12 @@ ul li {
 /*
  * 6.8 Section: FAQ
  */
-.faq .panel-heading {
+.faq {
   background-color: #f8f8f8;
+}
+
+.faq .panel-heading {
+
   cursor: pointer;
 }
 .faq .faq-toggle.collapsed::before {
