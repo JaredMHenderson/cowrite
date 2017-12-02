@@ -36,6 +36,8 @@ h6 {
   font-weight: 700;
 }
 
+
+
 p {
   margin: 0 0 30px;
 }
@@ -497,7 +499,7 @@ ul li {
  * 6.8 Section: FAQ
  */
 .faq {
-  background-color: #f8f8f8;
+  background-color: #C6C6C6;
 }
 
 .faq .panel-heading {
